@@ -1,0 +1,14 @@
+
+public class InsertionSort extends SelectionSort{
+	
+	public static void main(String [] args)
+	{
+		System.out.println("Let us try InsertionSort now");
+		
+		int [] data = {2,3,5,1,6,4,9,7,8};
+		
+	}
+
+	
+
+}

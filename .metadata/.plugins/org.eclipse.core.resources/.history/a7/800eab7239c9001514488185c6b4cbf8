@@ -1,0 +1,19 @@
+
+public class SelectionSort {
+	
+	public static void main(String [] args)
+	{
+		System.out.println("Lets go for Selection sort now");
+		
+		int [] sortThis = {1,2,3,4,5,1,3};
+		printArray(sortThis);
+		
+	}
+	
+	public static void printArray(int[] a)
+	{
+		for(int s=0; s<a.length;s++)
+			System.out.println(a[s]);
+	}
+
+}
