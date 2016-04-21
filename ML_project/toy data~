@@ -1,0 +1,56 @@
+WiFi	Bandwidth	Data	        CPU	           Processing
+Yes	Speed_Low	Data_Small	CPU_Low	           Local Processing
+Yes	Speed_Low	Data_Small	CPU_Normal	   Local Processing
+Yes	Speed_Low	Data_Small	CPU_High	   Remote Processing(On Local Servers)
+Yes	Speed_Low	Data_Medium	CPU_Low	           Local Processing
+Yes	Speed_Low	Data_Medium	CPU_Normal	   Local Processing
+Yes	Speed_Low	Data_Medium	CPU_High	   Local Processing
+Yes	Speed_Low	Data_Big	CPU_Low	           Local Processing
+Yes	Speed_Low	Data_Big	CPU_Normal	   Local Processing
+Yes	Speed_Low	Data_Big	CPU_High	   Local Processing
+Yes	Speed_Normal	Data_Small	CPU_Low	           Local Processing
+Yes	Speed_Normal	Data_Small	CPU_Normal	   Local Processing
+Yes	Speed_Normal	Data_Small	CPU_High	   Remote Processing(On Local Servers)
+Yes	Speed_Normal	Data_Medium	CPU_Low	           Local Processing
+Yes	Speed_Normal	Data_Medium	CPU_Normal	   Local Processing
+Yes	Speed_Normal	Data_Medium	CPU_High	   Local Processing
+Yes	Speed_Normal	Data_Big	CPU_Low	           Local Processing
+Yes	Speed_Normal	Data_Big	CPU_Normal	   Local Processing
+Yes	Speed_Normal	Data_Big	CPU_High	   Local Processing
+Yes	Speed_High	Data_Small	CPU_Low	           Local Processing
+Yes	Speed_High	Data_Small	CPU_Normal	   Remote Processing(On Local Servers)
+Yes	Speed_High	Data_Small	CPU_High	   Remote Processing(On Local Servers)
+Yes	Speed_High	Data_Medium	CPU_Low	           Local Processing
+Yes	Speed_High	Data_Medium	CPU_Normal	   Remote Processing(On Local Servers)
+Yes	Speed_High	Data_Medium	CPU_High	   Remote Processing(On Local Servers)
+Yes	Speed_High	Data_Big	CPU_Low	           Local Processing
+Yes	Speed_High	Data_Big	CPU_Normal	   Remote Processing(On Local Servers)
+Yes	Speed_High	Data_Big	CPU_High	   Remote Processing(On Local Servers)
+No	Speed_Low	Data_Small	CPU_Low	           Local Processing
+No	Speed_Low	Data_Small	CPU_Normal	   Local Processing
+No	Speed_Low	Data_Small	CPU_High	   Remote Processing(On Remote Servers)
+No	Speed_Low	Data_Medium	CPU_Low	           Local Processing
+No	Speed_Low	Data_Medium	CPU_Normal	   Local Processing
+No	Speed_Low	Data_Medium	CPU_High	   Local Processing
+No	Speed_Low	Data_Big	CPU_Low	           Local Processing
+No	Speed_Low	Data_Big	CPU_Normal	   Local Processing
+No	Speed_Low	Data_Big	CPU_High	   Local Processing
+No	Speed_Normal	Data_Small	CPU_Low	           Local Processing
+No	Speed_Normal	Data_Small	CPU_Normal	   Local Processing
+No	Speed_Normal	Data_Small	CPU_High	   Remote Processing(On Remote Servers)
+No	Speed_Normal	Data_Medium	CPU_Low	           Local Processing
+No	Speed_Normal	Data_Medium	CPU_Normal	   Local Processing
+No	Speed_Normal	Data_Medium	CPU_High	   Local Processing
+No	Speed_Normal	Data_Big	CPU_Low	           Local Processing
+No	Speed_Normal	Data_Big	CPU_Normal	   Local Processing
+No	Speed_Normal	Data_Big	CPU_High	   Local Processing
+No	Speed_High	Data_Small	CPU_Low	           Local Processing
+No	Speed_High	Data_Small	CPU_Normal	   Remote Processing(On Remote Servers)
+No	Speed_High	Data_Small	CPU_High	   Remote Processing(On Remote Servers)
+No	Speed_High	Data_Medium	CPU_Low	           Local Processing
+No	Speed_High	Data_Medium	CPU_Normal	   Remote Processing(On Remote Servers)
+No	Speed_High	Data_Medium	CPU_High	   Remote Processing(On Remote Servers)
+No	Speed_High	Data_Big	CPU_Low	           Local Processing
+No	Speed_High	Data_Big	CPU_Normal	   Remote Processing(On Remote Servers)
+No	Speed_High	Data_Big	CPU_High	   Remote Processing(On Remote Servers)
+

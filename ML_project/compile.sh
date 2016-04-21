@@ -1,0 +1,5 @@
+pdflatex krishnaproject
+bibtex krishnaproject
+pdflatex krishnaproject
+pdflatex krishnaproject
+evince krishnaproject.pdf

@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}Introduction}{1}
+\contentsline {subsection}{\numberline {1.1}Offloading computation to save energy}{2}
+\contentsline {subsection}{\numberline {1.2}Offloading Decision Engine}{2}
+\contentsline {section}{\numberline {2}Implementation and Results}{3}
+\contentsline {subsection}{\numberline {2.1}Reinforcement Learning}{3}
+\contentsline {subsubsection}{\numberline {2.1.1}The Concept}{3}
+\contentsline {subsubsection}{\numberline {2.1.2}The Idea}{3}
+\contentsline {subsection}{\numberline {2.2}Fuzzy Logic Decision Engine}{4}
+\contentsline {subsection}{\numberline {2.3}Classification}{6}
+\contentsline {section}{\numberline {3}Discussion}{6}
+\contentsline {section}{\numberline {4}Conclusion}{7}

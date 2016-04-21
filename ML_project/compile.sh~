@@ -1,0 +1,5 @@
+pdflatex krishna6
+bibtex krishna6
+pdflatex krishna6
+pdflatex krishna6
+evince krishna6.pdf
